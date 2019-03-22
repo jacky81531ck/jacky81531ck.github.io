@@ -1,0 +1,23 @@
+span {
+    font-size: 12pt;
+    color: blue;
+}
+
+#title {
+    font-size: 32pt;
+    font-style: oblique;
+    color: aliceblue;
+    background-color: cornflowerblue;
+}
+
+.red {
+    color: red;
+}
+
+div {
+    height: 300pt;
+    width: 300pt;
+    border-style: solid;
+    border-radius: 50%;
+    background-image: url(../img/Elsa.jpg);
+}
