@@ -1,0 +1,28 @@
+#col1 {
+    height: 150px;
+    background-color: aliceblue
+}
+
+#col2 {
+    height: 150px;
+    background-color: antiquewhite;
+}
+
+#col3 {
+    height: 150px;
+    background-color: azure;
+}
+
+#txt {
+    height: 180px;
+    background-color: beige;
+}
+
+#img {
+    height: 180px;
+    background-color: bisque;
+}
+
+#center {
+    margin: auto;
+}
