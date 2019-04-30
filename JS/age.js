@@ -13,3 +13,11 @@ $('#Run').on('click', checkage)
         else $('#Output').val('not Adult')
     })
 */
+
+/*
+    $('#Run').on('click', () => {
+        var age = $('#InputAge').val()
+        if (age >= 18) $('#Output').val('Adult')
+        else $('#Output').val('not Adult')
+    })
+*/
